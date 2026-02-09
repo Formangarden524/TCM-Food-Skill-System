@@ -1,0 +1,7 @@
+{
+  "name": "tcm-food-development",
+  "version": "1.1",
+  "author": "FormanGarden Team",
+  "domain": "TCM + Food Science",
+  "features": ["Seasonal Alignment", "Cost Alert"]
+}
